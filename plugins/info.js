@@ -2,7 +2,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
 ┣━⊱ ❰ *INFO BOT* ❱ ═
 ┣⊱ _Dibuat dengan javascript via NodeJs_
-┣⊱ _Rec: Bintang Pamungkas_
+┣⊱ _Rec: AGI_
 ┣⊱ _Script: @Nurotomo_
 ┃          
 ┣━⊱ ❰ *Thanks To* ❱ ═
@@ -18,7 +18,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ┃
 ┣━⊱ Request? Wa.me/6283813304760
 ┃
-  ╰══─⊱  ❰ *Bintang Pamungkas* ❱ ⊰─══╯
+  ╰══─⊱  ❰ *AGI* ❱ ⊰─══╯
 `.trim(), m)
 }
 handler.help = ['info']

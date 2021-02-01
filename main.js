@@ -11,9 +11,9 @@ let util = require('util')
 let WAConnection = simple.WAConnection(_WAConnection)
 
 
-global.owner = ['6283813304760@s.whatsapp.net'] // Put your number here
-global.mods = ['6283813304760@s.whatsapp.net'] // Want some help?
-global.prems = ['6283813304760@s.whatsapp.net'] // Premium user has unlimited limit
+global.owner = ['6283822629085@s.whatsapp.net'] // Put your number here
+global.mods = ['6283822629085@s.whatsapp.net'] // Want some help?
+global.prems = ['6283822629085@s.whatsapp.net'] // Premium user has unlimited limit
 
 
 global.timestamp = {

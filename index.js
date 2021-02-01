@@ -7,7 +7,7 @@ CFonts.say('WHATSAPP BOT', {
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say('\'Instagram:\' BintangP_28', {
+CFonts.say('\'Instagram:\' BintangP_28 ', {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']

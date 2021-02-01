@@ -60,8 +60,8 @@ Simple WhatsApp Bot
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/BintangP28/STAR-BOT
-> cd STAR-BOT
+> git clone https://github.com/BintangP28/agi
+> cd agi
 > npm install
 ```
 ###### Run ♐ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
@@ -80,8 +80,8 @@ Simple WhatsApp Bot
 * Download Dan install Quick edit [`Click Here`](https://play.google.com/store/apps/details?id=com.rhmsoft.edit)
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/BintangP28/STAR-BOT
-> cd STAR-BOT
+> git clone https://github.com/BintangP28/agi
+> cd agi
 > npm install
 ```
 ###### Run <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
@@ -92,6 +92,7 @@ Simple WhatsApp Bot
 
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 [`Kelvin44`](https://github.com/Kelvin44)
+[`BintangP28`](https://github.com/BintangP28)
 
 # SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 

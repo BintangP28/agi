@@ -1,3 +1,6 @@
+#SEDANG DISEWA
+OLEH INISIAL A G I :v
+
 <P align="center">
 
 <img src="https://media.giphy.com/media/mf4qECoTz8ZVK/giphy.gif" width="100%" alt="API Giphy logo"/>
